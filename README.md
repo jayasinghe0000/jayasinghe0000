@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Lahiru Jayasinghe</h1>
 <h3 align="center">A passionate UI/UX designer from SriLanka</h3>
-<img allign="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+<img allign="center" alt="coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayasinghe0000&label=Profile%20views&color=0e75b6&style=flat" alt="jayasinghe0000" /> </p>
 
